@@ -13,8 +13,10 @@ React is component-based framework. An example of a component could be a form or
 ### Creating a new react app
 There are many steps involved. At first, we need to install NodeJS and then we can start installing React using npm. 
 *Create React App* is a tool, built by developers at Facebook that gives us a massive head start when building React app. It saves us from time consuming setup and configuration. We can simply run one command(create-react-app) and it will set up all the tools we need to start a React project.
-Syntax:
+```
+**Syntax:**
 npx create-react-app my-app
 cd my-app
 npm start
+```
 
